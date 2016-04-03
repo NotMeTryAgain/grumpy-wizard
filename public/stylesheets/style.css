@@ -1,0 +1,41 @@
+body {
+  font-family:'Roboto Mono', monospace;
+}
+
+h1 {
+  font-family:'Roboto Mono', monospace;
+}
+
+h3 {
+  font-family:'Roboto Mono', monospace;
+}
+
+.menu-text{
+border: 1px solid black;
+font-family:'Roboto Mono', monospace;
+}
+
+.callout {
+  border: none;
+}
+
+.underline {
+  border-bottom: solid 1px black;
+}
+
+.top-bar {
+background-color: white;
+}
+
+li {
+  background-color: white;
+}
+
+body {
+  background-color: white;
+}
+
+.picture {
+  height: 400px;
+  width: 100%;
+}
