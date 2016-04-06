@@ -25,6 +25,7 @@ font-family:'Roboto Mono', monospace;
 
 .top-bar {
 background-color: white;
+background-image: url(http://stmedia.startribune.com/images/2000*778/08-944743+05mia031615.jpg);
 }
 
 li {
@@ -38,4 +39,8 @@ body {
 .picture {
   height: 400px;
   width: 100%;
+}
+
+.overline {
+  border-top: solid 1px black;
 }
